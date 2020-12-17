@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Final Last Banner](https://user-images.githubusercontent.com/50417226/102505290-d0b26380-40a7-11eb-81d2-dae96a129b43.jpg)
-
 
 I'm Not a Coder
 || Not a Gamer
