@@ -35,5 +35,6 @@ I'm Not a Coder
 ## Find Me in
 [My Profile](https://djkolehd239.myportfolio.com/)
 
-##Want to follow
+## Want to follow
+### Kaize
 ![kaizen2jpg](https://user-images.githubusercontent.com/50417226/104616618-82957d80-56b0-11eb-9901-edc738fe6559.jpg)
