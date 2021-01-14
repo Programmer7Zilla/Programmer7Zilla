@@ -1,4 +1,4 @@
-### Hi there Forkers👋
+# Hi there Forkers👋
 
 <!--
 **Programmer7Zilla/Programmer7Zilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,5 +36,5 @@ I'm Not a Coder
 [My Profile](https://djkolehd239.myportfolio.com/)
 
 # Want to follow
-## Kaize
+#### Kaize
 ![kaizen2jpg](https://user-images.githubusercontent.com/50417226/104616618-82957d80-56b0-11eb-9901-edc738fe6559.jpg)
