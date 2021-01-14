@@ -34,3 +34,6 @@ I'm Not a Coder
 [My Channel](https://www.youtube.com/channel/UC45eLbYIrzNpIVvxpOusfBg)
 ## Find Me in
 [My Profile](https://djkolehd239.myportfolio.com/)
+
+##Want to follow
+![kaizen2jpg](https://user-images.githubusercontent.com/50417226/104616618-82957d80-56b0-11eb-9901-edc738fe6559.jpg)
