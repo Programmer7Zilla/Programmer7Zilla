@@ -30,11 +30,11 @@ I'm Not a Coder
 ![logodjk](https://user-images.githubusercontent.com/50417226/102507774-a2825300-40aa-11eb-8cc9-b4f1a125240e.png)
 
 
-## Find Me in YouTube
+# Find Me in YouTube
 [My Channel](https://www.youtube.com/channel/UC45eLbYIrzNpIVvxpOusfBg)
-## Find Me in
+# Find Me in
 [My Profile](https://djkolehd239.myportfolio.com/)
 
-## Want to follow
-###### Kaize
+# Want to follow
+## Kaize:-
 ![kaizen2jpg](https://user-images.githubusercontent.com/50417226/104616618-82957d80-56b0-11eb-9901-edc738fe6559.jpg)
